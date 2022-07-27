@@ -1,8 +1,7 @@
 # 365-entertainment-Movie-Webapp
 
 ### Project 1 under Suven Coding Internship
-
-You can view Live Preview <a href="https://yashitanamdeo.github.io/365-entertainment-Movie-Webapp/"> Here </a>
+<h1>Made By Yash Bhapkar</h1>
 
 <ul><li>Designed an HTML-CSS frontend template including following modules like header containing navigation links and site logo with embedded CSS properties. </li>
 <li>Body content or section with movies details sorted and displayed according to genre and footer with copyright info.</li>
